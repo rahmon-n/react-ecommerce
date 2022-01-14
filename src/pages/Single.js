@@ -36,7 +36,7 @@ function Single() {
       name: product.name,
       imageUrl: product.img,
       price: product.actualPrice,
-      size: product.sizes[activeSize],
+      size: product.sizes ? product.sizes[activeSize] : 'standart',
     };
 
     dispatch(addToCart(obj));
