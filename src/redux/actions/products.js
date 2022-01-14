@@ -2,7 +2,7 @@ import { SET_PRODUCTS } from './actionTypes';
 import axios from 'axios';
 
 export const getProducts = () => (dispatch) => {
-  axios.get('http://localhost:3000/db.json').then(({ data }) => {
+  axios.get('/db.json').then(({ data }) => {
     dispatch(setProducts(data.products));
   });
 };
