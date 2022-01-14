@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "img": "/images/s1.jpg",
+      "name": "Watch",
+      "oldPrice": 150,
+      "actualPrice": 120,
+      "description": "There`s a reason why timepieces with brown dials haven`t developed as a universal offering from watch brands in the same way other colorways have. The popular blue and green looks that we’ve seen proliferate over the past few years are able to offer a lively interpretation of time with their attractive and vibrant hues.",
+      "sizes": [20, 33]
+    },
+    {
+      "id": "1",
+      "img": "/images/s2.jpg",
+      "name": "Cap",
+      "oldPrice": 80,
+      "actualPrice": 50,
+      "description": "The black baseball cap has a Velcro at the back, which allows you to adjust the size and provides a secure fit. Made of high-quality blended fabric with a density of 210 grams per square meter,",
+      "sizes": [20, 22, 33]
+    },
+    {
+      "id": "2",
+      "img": "/images/s3.jpg",
+      "name": "Wallet",
+      "oldPrice": 120,
+      "actualPrice": 100,
+      "description": "This slim black leather wallet is made from genuine cow leather for strength and finish. We love it for its versatility.It has six spaces for holding cards and each slot can hold up to two cards at a time, making it the ideal choice for any man with a busy lifestyle. There’s also lots of space for cash between its two rear pockets, and for smaller items in the pockets underneath the card slots."
+    },
+    {
+      "id": "3",
+      "img": "/images/s4.jpg",
+      "name": "Red Sunglasses",
+      "oldPrice": 150,
+      "actualPrice": 100,
+      "description": "There`s a reason why timepieces with brown dials haven`t developed as a universal offering from watch brands in the same way other colorways have. The popular blue and green looks that we’ve seen proliferate over the past few years are able to offer a lively interpretation of time with their attractive and vibrant hues."
+    },
+    {
+      "id": "4",
+      "img": "/images/s5.jpg",
+      "name": "Bag",
+      "oldPrice": 200,
+      "actualPrice": 150,
+      "description": "The black baseball cap has a Velcro at the back, which allows you to adjust the size and provides a secure fit. Made of high-quality blended fabric with a density of 210 grams per square meter,",
+      "sizes": [20, 22, 33]
+    },
+    {
+      "id": "5",
+      "img": "/images/s6.jpg",
+      "name": "Backpack",
+      "oldPrice": 100,
+      "actualPrice": 85,
+      "description": "This slim black leather wallet is made from genuine cow leather for strength and finish. We love it for its versatility.It has six spaces for holding cards and each slot can hold up to two cards at a time, making it the ideal choice for any man with a busy lifestyle. There’s also lots of space for cash between its two rear pockets, and for smaller items in the pockets underneath the card slots."
+    }
+  ]
+}

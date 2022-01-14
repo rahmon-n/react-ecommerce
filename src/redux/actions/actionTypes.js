@@ -1,0 +1,5 @@
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_CART_ITEM = 'REMOVE_CART_ITEM';
+export const PLUS_ITEM_TO_CART = 'PLUS_ITEM_TO_CART';
+export const MINUS_CART_ITEM = 'MINUS_CART_ITEM';
