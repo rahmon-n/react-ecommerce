@@ -12,7 +12,6 @@ function Single() {
   }));
   const dispatch = useDispatch();
 
-  const aviableSizes = [20, 22, 30, 33];
   const [product, setProduct] = React.useState({});
   const [activeSize, setActiveSize] = React.useState(0);
 
@@ -37,7 +36,7 @@ function Single() {
       name: product.name,
       imageUrl: product.img,
       price: product.actualPrice,
-      size: aviableSizes[activeSize],
+      size: product.sizes[activeSize],
     };
 
     dispatch(addToCart(obj));
