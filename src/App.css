@@ -231,6 +231,7 @@
   color: #000;
 }
 .products__img {
+  position: relative;
   overflow: hidden;
   text-align: center;
 }
@@ -238,6 +239,7 @@
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
+
 .products__img:hover img {
   -webkit-transform: scale(1.1, 1.1);
   transform: scale(1.1, 1.1);
